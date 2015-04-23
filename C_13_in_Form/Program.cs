@@ -15,6 +15,7 @@ namespace C_13_in_Form
         [STAThread]
         static void Main()
         {
+            Console.WriteLine("Oleh is the best man in the Ukraine");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
